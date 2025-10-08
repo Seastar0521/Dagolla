@@ -1,5 +1,5 @@
 # Dagolla
-# 🛒 쇼핑몰 웹사이트 (ShoppingMall Website)
+# 🛒 쇼핑몰 웹사이트
 
 본 프로젝트는 **React**, **FastAPI**, **MongoDB** 를 활용하여 구현한 쇼핑몰 웹사이트입니다.  
 상품 목록 페이지를 중심으로, 고객사의 요구사항과 기능 목록을 충족하는 구조로 개발되었습니다.  
@@ -7,7 +7,7 @@
 ---
 
 ## 📌 기본 정보
-- 프로젝트명: ShoppingMall
+- 프로젝트명: Dagolla
 - 프론트엔드: React, TailwindCSS
 - 백엔드: Python, FastAPI
 - 데이터베이스: MongoDB
